@@ -2,7 +2,7 @@
 ;==================================================
 ; Server Settings
 ;==================================================
-ServerName = MuEMU
+ServerName = MuBradorz
 ServerCode = 0
 ServerLock = 0
 ServerPort = 55901
@@ -171,16 +171,16 @@ TradeItemBlockSell = 0
 ;==================================================
 MaxLevelUp = 1
 MaxLevelUpEvent = 2
-MaxStatPoint_AL0 = 65000
-MaxStatPoint_AL1 = 65000
-MaxStatPoint_AL2 = 65000
-MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 5
-DKLevelUpPoint = 5
-FELevelUpPoint = 5
+MaxStatPoint_AL0 = 32767
+MaxStatPoint_AL1 = 32767
+MaxStatPoint_AL2 = 32767
+MaxStatPoint_AL3 = 32767
+DWLevelUpPoint = 6
+DKLevelUpPoint = 6
+FELevelUpPoint = 6
 MGLevelUpPoint = 7
 DLLevelUpPoint = 7
-SULevelUpPoint = 5
+SULevelUpPoint = 6
 PlusStatPoint = 1
 
 ;==================================================
@@ -235,15 +235,15 @@ PcPointPointValue_AL3 = 1
 ;==================================================
 PartyReconnectTime = 300
 PartyGeneralExperience1 = 100
-PartyGeneralExperience2 = 200
-PartyGeneralExperience3 = 300
-PartyGeneralExperience4 = 400
-PartyGeneralExperience5 = 500
+PartyGeneralExperience2 = 130
+PartyGeneralExperience3 = 130
+PartyGeneralExperience4 = 130
+PartyGeneralExperience5 = 130
 PartySpecialExperience1 = 100
-PartySpecialExperience2 = 200
-PartySpecialExperience3 = 300
-PartySpecialExperience4 = 400
-PartySpecialExperience5 = 500
+PartySpecialExperience2 = 130
+PartySpecialExperience3 = 130
+PartySpecialExperience4 = 130
+PartySpecialExperience5 = 130
 
 ;==================================================
 ; Potion Settings
