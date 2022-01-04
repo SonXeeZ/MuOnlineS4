@@ -1,0 +1,4 @@
+//Message                                                            Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"Welcome To BradorzMu"                                                 0      0       0         0       0     0       0      0       180
+"Buy VIP if you have a big Dick :)"                                    0      0       0         0       0     0       0      0       240
+end

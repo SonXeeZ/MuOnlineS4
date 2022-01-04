@@ -1,0 +1,21 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+7	0	0	0	1	1	1	0 //Bronze Helm
+8	0	0	0	1	1	1	0 //Bronze Armor
+9	0	0	0	1	1	1	0 //Bronze Pants
+10	0	0	0	1	1	1	0 //Bronze Gloves
+11	0	0	0	1	1	1	0 //Bronze Boots
+7	5	2	0	1	1	1	0 //Leather Helm
+8	5	2	0	1	1	1	0 //Leather Armor
+9	5	2	0	1	1	1	0 //Leather Pants
+10	5	2	0	1	1	1	0 //Leather Gloves
+11	5	2	0	1	1	1	0 //Leather Boots
+0	3	0	0	1	1	1	0 //Katana
+0	4	0	0	1	1	1	0 //Sword of Assassin
+0	1	0	0	1	1	1	0 //Short Sword
+0	12	0	0	1	1	1	0 //Helical Sword
+2	8	0	0	0	0	0	0 //Battle Scepter
+6	2	3	0	0	0	1   0 //Kite Shield
+12	7	0	0	0	0	0	0 //Orb of Twisting Slash
+12	13	0	0	0	0	0	0 //Orb of Impale
+end
+

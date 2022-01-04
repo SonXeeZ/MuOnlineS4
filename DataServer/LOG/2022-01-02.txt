@@ -1,0 +1,15 @@
+22:38:11 Could not connect to database
+22:48:06 Could not connect to database
+22:51:48 Could not connect to database
+23:01:31 Could not connect to database
+23:14:59 Could not connect to database
+23:16:26 Could not connect to database
+23:21:12 Could not connect to database
+23:25:44 Could not connect to database
+23:33:48 Could not connect to database
+23:43:13 Could not connect to database
+23:44:33 [SocketManager] Server started at port [55960]
+23:44:34 [ServerManager][0] AddServer (127.0.0.1)
+23:44:34 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+23:44:35 [ServerManager][1] AddServer (127.0.0.1)
+23:44:35 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
