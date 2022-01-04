@@ -1,0 +1,11 @@
+/hide						//invisibility
+/setmoney 	"név|összeg"
+/skin	  	"név|skinID" //szörnyskin     | -1 ALAP KARAKTER!  |
+/track    	"név"  //Lekövetés
+/trace    	"név"  // magadhoz teleportalod
+/disconnect "név"   
+/fireworks
+/make  		"itemID|itemIDmegint?|OPT|?|Luck|ADD|Mana|            
+/gmpost   	"szöveg"		//szöveg középre a [neveddel]
+/notice		"szöveg"		// szöveg középre [névtelenül].
+/move    ?????
