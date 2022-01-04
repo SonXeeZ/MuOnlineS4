@@ -42,7 +42,6 @@ end
 235            00             00         130            133            03             //Sebina the Priest
 244            02             00         226            025            03             //Caren the Barmaid
 245            02             00         225            041            03             //Wizard Izabel
-246            02             00         186            047            03             //Weapons Merchant Zienna
 247            02             20         224            079            05             //Guard
 247            02             20         219            079            05             //Guard
 247            02             20         169            045            07             //Guard
