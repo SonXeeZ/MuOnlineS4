@@ -1,5 +1,6 @@
 //Section   Type   Level   Dur   Skill   Luck   Option   Excellent
 15          3      0       1     0       0      0        0
+15  	    8	   0	   0	 0	 0	0	 0    //Scroll of Evil Spirit
 15          10     0       1     0       0      0        0
 15          2      0       1     0       0      0        0
 15          1      0       1     0       0      0        0
