@@ -23,12 +23,12 @@ FEDamageRatePvP = 100
 MGDamageRatePvP = 100
 DLDamageRatePvP = 100
 SUDamageRatePvP = 100
-DWDamageRatePvM = 170
-DKDamageRatePvM = 200
-FEDamageRatePvM = 150
+DWDamageRatePvM = 180
+DKDamageRatePvM = 170
+FEDamageRatePvM = 160
 MGDamageRatePvM = 170
-DLDamageRatePvM = 170
-SUDamageRatePvM = 180
+DLDamageRatePvM = 160
+SUDamageRatePvM = 160
 
 ;==================================================
 ; Character Class x Class Damage Rate Settings
