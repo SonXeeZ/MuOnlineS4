@@ -38,3 +38,14 @@
 18:39:35 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
 18:39:36 [ServerManager][1] AddServer (127.0.0.1)
 18:39:36 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+21:32:37 Could not connect to database
+21:36:22 Could not connect to database
+21:37:24 Could not connect to database
+21:41:26 [SocketManager] Server started at port [55970]
+21:41:29 [ServerManager][0] AddServer (127.0.0.1)
+21:41:29 [ServerManager][0] ServerInfo (MuEMU_CS) (55919) (19)
+21:44:15 [SocketManager] Server started at port [55970]
+21:44:17 [ServerManager][0] AddServer (127.0.0.1)
+21:44:17 [ServerManager][0] ServerInfo (MuBradorz) (55901) (0)
+21:44:18 [ServerManager][1] AddServer (127.0.0.1)
+21:44:18 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)

@@ -4425,3 +4425,435 @@
 18:39:38 [ CRYWOLF ] SYNC Occupation: 0, State: 0
 18:40:37 LEFT : SEC(523163), SIEGE-DAY(2022-01-10 20:00:00)
 18:41:37 LEFT : SEC(523103), SIEGE-DAY(2022-01-10 20:00:00)
+21:32:45 [ServerInfo] CashShop loaded successfully
+21:32:45 [ServerInfo] ChaosMix loaded successfully
+21:32:45 [ServerInfo] Character loaded successfully
+21:32:45 [ServerInfo] Command loaded successfully
+21:32:45 [ServerInfo] Common loaded successfully
+21:32:45 [ServerInfo] Custom loaded successfully
+21:32:45 [ Crywolf ] State (0) -> NONE
+21:32:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:32:45 [ServerInfo] Event loaded successfully
+21:32:45 [ServerInfo] EventItemBag loaded successfully
+21:32:45 [ServerInfo] Hack loaded successfully
+21:32:45 [ServerInfo] Item loaded successfully
+21:32:45 [ServerInfo] Monster loaded successfully
+21:32:45 [ServerInfo] Move loaded successfully
+21:32:45 [ServerInfo] Quest loaded successfully
+21:32:45 [ServerInfo] Shop loaded successfully
+21:32:45 [ServerInfo] Skill loaded successfully
+21:32:45 [ServerInfo] Util loaded successfully
+21:32:45 [Blood Castle] (1) SetState BLANK
+21:32:45 [Blood Castle] (2) SetState BLANK
+21:32:45 [Blood Castle] (3) SetState BLANK
+21:32:45 [Blood Castle] (4) SetState BLANK
+21:32:45 [Blood Castle] (5) SetState BLANK
+21:32:45 [Blood Castle] (6) SetState BLANK
+21:32:45 [Blood Castle] (7) SetState BLANK
+21:32:45 [Blood Castle] (8) SetState BLANK
+21:32:45 [Castle Deep] Sync Start Time. [387] min remain
+21:32:45 [Castle Deep] SetState EMPTY
+21:32:45 [Chaos Castle] (1) SetState BLANK
+21:32:45 [Chaos Castle] (2) SetState BLANK
+21:32:45 [Chaos Castle] (3) SetState BLANK
+21:32:45 [Chaos Castle] (4) SetState BLANK
+21:32:45 [Chaos Castle] (5) SetState BLANK
+21:32:45 [Chaos Castle] (6) SetState BLANK
+21:32:45 [Chaos Castle] (7) SetState BLANK
+21:32:45 [Devil Square] (1) SetState BLANK
+21:32:45 [Devil Square] (2) SetState BLANK
+21:32:45 [Devil Square] (3) SetState BLANK
+21:32:45 [Devil Square] (4) SetState BLANK
+21:32:45 [Devil Square] (5) SetState BLANK
+21:32:45 [Devil Square] (6) SetState BLANK
+21:32:45 [Devil Square] (7) SetState BLANK
+21:32:45 [Illusion Temple] (1) SetState BLANK
+21:32:45 [Illusion Temple] (2) SetState BLANK
+21:32:45 [Illusion Temple] (3) SetState BLANK
+21:32:45 [Illusion Temple] (4) SetState BLANK
+21:32:45 [Illusion Temple] (5) SetState BLANK
+21:32:45 [Illusion Temple] (6) SetState BLANK
+21:32:45 [ RAKLION ] State(0) -> END
+21:32:45 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:32:45 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:32:45 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+21:32:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:32:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:32:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:33:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:34:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:35:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:29 [ServerInfo] CashShop loaded successfully
+21:36:29 [ServerInfo] ChaosMix loaded successfully
+21:36:29 [ServerInfo] Character loaded successfully
+21:36:29 [ServerInfo] Command loaded successfully
+21:36:29 [ServerInfo] Common loaded successfully
+21:36:29 [ServerInfo] Custom loaded successfully
+21:36:29 [ Crywolf ] State (0) -> NONE
+21:36:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:36:29 [ServerInfo] Event loaded successfully
+21:36:29 [ServerInfo] EventItemBag loaded successfully
+21:36:29 [ServerInfo] Hack loaded successfully
+21:36:29 [ServerInfo] Item loaded successfully
+21:36:29 [ServerInfo] Monster loaded successfully
+21:36:29 [ServerInfo] Move loaded successfully
+21:36:29 [ServerInfo] Quest loaded successfully
+21:36:29 [ServerInfo] Shop loaded successfully
+21:36:29 [ServerInfo] Skill loaded successfully
+21:36:29 [ServerInfo] Util loaded successfully
+21:36:29 [Blood Castle] (1) SetState BLANK
+21:36:29 [Blood Castle] (2) SetState BLANK
+21:36:29 [Blood Castle] (3) SetState BLANK
+21:36:29 [Blood Castle] (4) SetState BLANK
+21:36:29 [Blood Castle] (5) SetState BLANK
+21:36:29 [Blood Castle] (6) SetState BLANK
+21:36:29 [Blood Castle] (7) SetState BLANK
+21:36:29 [Blood Castle] (8) SetState BLANK
+21:36:29 [Castle Deep] Sync Start Time. [383] min remain
+21:36:29 [Castle Deep] SetState EMPTY
+21:36:29 [Chaos Castle] (1) SetState BLANK
+21:36:29 [Chaos Castle] (2) SetState BLANK
+21:36:29 [Chaos Castle] (3) SetState BLANK
+21:36:29 [Chaos Castle] (4) SetState BLANK
+21:36:29 [Chaos Castle] (5) SetState BLANK
+21:36:29 [Chaos Castle] (6) SetState BLANK
+21:36:29 [Chaos Castle] (7) SetState BLANK
+21:36:29 [Devil Square] (1) SetState BLANK
+21:36:29 [Devil Square] (2) SetState BLANK
+21:36:29 [Devil Square] (3) SetState BLANK
+21:36:29 [Devil Square] (4) SetState BLANK
+21:36:29 [Devil Square] (5) SetState BLANK
+21:36:29 [Devil Square] (6) SetState BLANK
+21:36:29 [Devil Square] (7) SetState BLANK
+21:36:29 [Illusion Temple] (1) SetState BLANK
+21:36:29 [Illusion Temple] (2) SetState BLANK
+21:36:29 [Illusion Temple] (3) SetState BLANK
+21:36:29 [Illusion Temple] (4) SetState BLANK
+21:36:29 [Illusion Temple] (5) SetState BLANK
+21:36:29 [Illusion Temple] (6) SetState BLANK
+21:36:29 [ RAKLION ] State(0) -> END
+21:36:29 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:36:29 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:36:29 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+21:36:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:36:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:36:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:32 [ServerInfo] CashShop loaded successfully
+21:37:32 [ServerInfo] ChaosMix loaded successfully
+21:37:32 [ServerInfo] Character loaded successfully
+21:37:32 [ServerInfo] Command loaded successfully
+21:37:32 [ServerInfo] Common loaded successfully
+21:37:32 [ServerInfo] Custom loaded successfully
+21:37:32 [ Crywolf ] State (0) -> NONE
+21:37:32 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:37:32 [ServerInfo] Event loaded successfully
+21:37:32 [ServerInfo] EventItemBag loaded successfully
+21:37:32 [ServerInfo] Hack loaded successfully
+21:37:32 [ServerInfo] Item loaded successfully
+21:37:32 [ServerInfo] Monster loaded successfully
+21:37:32 [ServerInfo] Move loaded successfully
+21:37:32 [ServerInfo] Quest loaded successfully
+21:37:32 [ServerInfo] Shop loaded successfully
+21:37:32 [ServerInfo] Skill loaded successfully
+21:37:32 [ServerInfo] Util loaded successfully
+21:37:32 [Blood Castle] (1) SetState BLANK
+21:37:32 [Blood Castle] (2) SetState BLANK
+21:37:32 [Blood Castle] (3) SetState BLANK
+21:37:32 [Blood Castle] (4) SetState BLANK
+21:37:32 [Blood Castle] (5) SetState BLANK
+21:37:32 [Blood Castle] (6) SetState BLANK
+21:37:32 [Blood Castle] (7) SetState BLANK
+21:37:32 [Blood Castle] (8) SetState BLANK
+21:37:32 [Castle Deep] Sync Start Time. [382] min remain
+21:37:32 [Castle Deep] SetState EMPTY
+21:37:32 [Chaos Castle] (1) SetState BLANK
+21:37:32 [Chaos Castle] (2) SetState BLANK
+21:37:32 [Chaos Castle] (3) SetState BLANK
+21:37:32 [Chaos Castle] (4) SetState BLANK
+21:37:32 [Chaos Castle] (5) SetState BLANK
+21:37:32 [Chaos Castle] (6) SetState BLANK
+21:37:32 [Chaos Castle] (7) SetState BLANK
+21:37:32 [Devil Square] (1) SetState BLANK
+21:37:32 [Devil Square] (2) SetState BLANK
+21:37:32 [Devil Square] (3) SetState BLANK
+21:37:32 [Devil Square] (4) SetState BLANK
+21:37:32 [Devil Square] (5) SetState BLANK
+21:37:32 [Devil Square] (6) SetState BLANK
+21:37:32 [Devil Square] (7) SetState BLANK
+21:37:32 [Illusion Temple] (1) SetState BLANK
+21:37:32 [Illusion Temple] (2) SetState BLANK
+21:37:32 [Illusion Temple] (3) SetState BLANK
+21:37:32 [Illusion Temple] (4) SetState BLANK
+21:37:32 [Illusion Temple] (5) SetState BLANK
+21:37:32 [Illusion Temple] (6) SetState BLANK
+21:37:32 [ RAKLION ] State(0) -> END
+21:37:32 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:37:32 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:37:32 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+21:37:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:37:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:37:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:38:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:39:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:39:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:39:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:39:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:39:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+21:41:29 [ServerInfo] CashShop loaded successfully
+21:41:29 [ServerInfo] ChaosMix loaded successfully
+21:41:29 [ServerInfo] Character loaded successfully
+21:41:29 [ServerInfo] Command loaded successfully
+21:41:29 [ServerInfo] Common loaded successfully
+21:41:29 [ServerInfo] Custom loaded successfully
+21:41:29 [ Crywolf ] State (0) -> NONE
+21:41:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:41:29 [ServerInfo] Event loaded successfully
+21:41:29 [ServerInfo] EventItemBag loaded successfully
+21:41:29 [ServerInfo] Hack loaded successfully
+21:41:29 [ServerInfo] Item loaded successfully
+21:41:29 [ServerInfo] Monster loaded successfully
+21:41:29 [ServerInfo] Move loaded successfully
+21:41:29 [ServerInfo] Quest loaded successfully
+21:41:29 [ServerInfo] Shop loaded successfully
+21:41:29 [ServerInfo] Skill loaded successfully
+21:41:29 [ServerInfo] Util loaded successfully
+21:41:29 [Blood Castle] (1) SetState BLANK
+21:41:29 [Blood Castle] (2) SetState BLANK
+21:41:29 [Blood Castle] (3) SetState BLANK
+21:41:29 [Blood Castle] (4) SetState BLANK
+21:41:29 [Blood Castle] (5) SetState BLANK
+21:41:29 [Blood Castle] (6) SetState BLANK
+21:41:29 [Blood Castle] (7) SetState BLANK
+21:41:29 [Blood Castle] (8) SetState BLANK
+21:41:29 [Castle Deep] Sync Start Time. [378] min remain
+21:41:29 [Castle Deep] SetState EMPTY
+21:41:29 [Chaos Castle] (1) SetState BLANK
+21:41:29 [Chaos Castle] (2) SetState BLANK
+21:41:29 [Chaos Castle] (3) SetState BLANK
+21:41:29 [Chaos Castle] (4) SetState BLANK
+21:41:29 [Chaos Castle] (5) SetState BLANK
+21:41:29 [Chaos Castle] (6) SetState BLANK
+21:41:29 [Chaos Castle] (7) SetState BLANK
+21:41:29 [Devil Square] (1) SetState BLANK
+21:41:29 [Devil Square] (2) SetState BLANK
+21:41:29 [Devil Square] (3) SetState BLANK
+21:41:29 [Devil Square] (4) SetState BLANK
+21:41:29 [Devil Square] (5) SetState BLANK
+21:41:29 [Devil Square] (6) SetState BLANK
+21:41:29 [Devil Square] (7) SetState BLANK
+21:41:29 [Illusion Temple] (1) SetState BLANK
+21:41:29 [Illusion Temple] (2) SetState BLANK
+21:41:29 [Illusion Temple] (3) SetState BLANK
+21:41:29 [Illusion Temple] (4) SetState BLANK
+21:41:29 [Illusion Temple] (5) SetState BLANK
+21:41:29 [Illusion Temple] (6) SetState BLANK
+21:41:29 [ RAKLION ] State(0) -> END
+21:41:29 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:41:29 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:41:29 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+21:41:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:41:30 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+21:41:30 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-1-4)
+21:41:30 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+21:41:30 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-1-11(0:0:0))
+21:41:30 [CastleSiege] CCastleSiege::Init() - START
+21:41:30 SET SetState_REGSIEGE()
+21:41:30 LEFT : SEC(512310), SIEGE-DAY(2022-01-10 20:00:00)
+21:41:31 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+21:42:30 LEFT : SEC(512250), SIEGE-DAY(2022-01-10 20:00:00)
+21:43:30 LEFT : SEC(512190), SIEGE-DAY(2022-01-10 20:00:00)
+21:44:18 [ServerInfo] CashShop loaded successfully
+21:44:18 [ServerInfo] ChaosMix loaded successfully
+21:44:18 [ServerInfo] Character loaded successfully
+21:44:18 [ServerInfo] Command loaded successfully
+21:44:18 [ServerInfo] Common loaded successfully
+21:44:18 [ServerInfo] Custom loaded successfully
+21:44:18 [ Crywolf ] State (0) -> NONE
+21:44:18 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:44:18 [ServerInfo] Event loaded successfully
+21:44:18 [ServerInfo] EventItemBag loaded successfully
+21:44:18 [ServerInfo] Hack loaded successfully
+21:44:18 [ServerInfo] Item loaded successfully
+21:44:18 [ServerInfo] Monster loaded successfully
+21:44:18 [ServerInfo] Move loaded successfully
+21:44:18 [ServerInfo] Quest loaded successfully
+21:44:18 [ServerInfo] Shop loaded successfully
+21:44:18 [ServerInfo] Skill loaded successfully
+21:44:18 [ServerInfo] Util loaded successfully
+21:44:18 [Blood Castle] (1) SetState BLANK
+21:44:18 [Blood Castle] (2) SetState BLANK
+21:44:18 [Blood Castle] (3) SetState BLANK
+21:44:18 [Blood Castle] (4) SetState BLANK
+21:44:18 [Blood Castle] (5) SetState BLANK
+21:44:18 [Blood Castle] (6) SetState BLANK
+21:44:18 [Blood Castle] (7) SetState BLANK
+21:44:18 [Blood Castle] (8) SetState BLANK
+21:44:18 [Castle Deep] Sync Start Time. [375] min remain
+21:44:18 [Castle Deep] SetState EMPTY
+21:44:18 [Chaos Castle] (1) SetState BLANK
+21:44:18 [Chaos Castle] (2) SetState BLANK
+21:44:18 [Chaos Castle] (3) SetState BLANK
+21:44:18 [Chaos Castle] (4) SetState BLANK
+21:44:18 [Chaos Castle] (5) SetState BLANK
+21:44:18 [Chaos Castle] (6) SetState BLANK
+21:44:18 [Chaos Castle] (7) SetState BLANK
+21:44:18 [Devil Square] (1) SetState BLANK
+21:44:18 [Devil Square] (2) SetState BLANK
+21:44:18 [Devil Square] (3) SetState BLANK
+21:44:18 [Devil Square] (4) SetState BLANK
+21:44:18 [Devil Square] (5) SetState BLANK
+21:44:18 [Devil Square] (6) SetState BLANK
+21:44:18 [Devil Square] (7) SetState BLANK
+21:44:18 [Illusion Temple] (1) SetState BLANK
+21:44:18 [Illusion Temple] (2) SetState BLANK
+21:44:18 [Illusion Temple] (3) SetState BLANK
+21:44:18 [Illusion Temple] (4) SetState BLANK
+21:44:18 [Illusion Temple] (5) SetState BLANK
+21:44:18 [Illusion Temple] (6) SetState BLANK
+21:44:18 [ RAKLION ] State(0) -> END
+21:44:18 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:44:18 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:44:18 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+21:44:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:44:19 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+21:44:19 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-1-4)
+21:44:19 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+21:44:19 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-1-11(0:0:0))
+21:44:19 [CastleSiege] CCastleSiege::Init() - START
+21:44:19 SET SetState_REGSIEGE()
+21:44:19 LEFT : SEC(512141), SIEGE-DAY(2022-01-10 20:00:00)
+21:44:20 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+21:45:19 LEFT : SEC(512081), SIEGE-DAY(2022-01-10 20:00:00)
+21:46:20 LEFT : SEC(512021), SIEGE-DAY(2022-01-10 20:00:01)
+21:47:20 LEFT : SEC(511960), SIEGE-DAY(2022-01-10 20:00:00)
+21:48:20 LEFT : SEC(511901), SIEGE-DAY(2022-01-10 20:00:01)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(444), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(445), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(446), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(447), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(448), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(449), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(450), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(451), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(452), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(453), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:49:19 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:49:19 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:49:20 LEFT : SEC(511841), SIEGE-DAY(2022-01-10 20:00:01)
+21:50:20 LEFT : SEC(511780), SIEGE-DAY(2022-01-10 20:00:00)
+21:51:20 LEFT : SEC(511720), SIEGE-DAY(2022-01-10 20:00:00)
+21:52:20 LEFT : SEC(511660), SIEGE-DAY(2022-01-10 20:00:00)
+21:53:20 LEFT : SEC(511600), SIEGE-DAY(2022-01-10 20:00:00)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(444), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(445), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(446), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(447), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(448), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(449), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(450), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(451), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(452), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(453), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:54:20 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:54:20 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:54:20 LEFT : SEC(511540), SIEGE-DAY(2022-01-10 20:00:00)
+21:55:20 LEFT : SEC(511480), SIEGE-DAY(2022-01-10 20:00:00)
+21:56:20 LEFT : SEC(511420), SIEGE-DAY(2022-01-10 20:00:00)
+21:57:21 LEFT : SEC(511360), SIEGE-DAY(2022-01-10 20:00:01)
+21:58:21 LEFT : SEC(511300), SIEGE-DAY(2022-01-10 20:00:01)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(444), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(445), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(446), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(447), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(448), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(449), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(450), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(451), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(452), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(453), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:59:20 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:59:20 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:59:21 LEFT : SEC(511240), SIEGE-DAY(2022-01-10 20:00:01)
+22:00:21 LEFT : SEC(511180), SIEGE-DAY(2022-01-10 20:00:01)
+22:01:21 LEFT : SEC(511119), SIEGE-DAY(2022-01-10 20:00:00)
+22:02:21 LEFT : SEC(511059), SIEGE-DAY(2022-01-10 20:00:00)
